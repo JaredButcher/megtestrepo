@@ -4,10 +4,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 stuff and things and I shouldn't be able to do this, how about now
 ae4geg!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 hauioeg
 jioageji
+=======
+stuff super !!!!!!!!! aConflitgt
+>>>>>>> f6269f3d373a1d8c5ef944164c170a32bb4a9739
 =======
 stuff super !!!!!!!!! aConflitgt
 >>>>>>> f6269f3d373a1d8c5ef944164c170a32bb4a9739
