@@ -1,3 +1,2 @@
 Default
-Local
-Potato
+Remote2
